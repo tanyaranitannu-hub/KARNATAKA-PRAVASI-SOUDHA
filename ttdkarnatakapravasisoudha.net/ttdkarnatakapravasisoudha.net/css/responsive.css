@@ -1,0 +1,396 @@
+
+@media only screen and (min-width:1024px) and (max-width:1139px){
+    .tourbtn li a{font-size: 13px;}
+    .offerctn h2{font-size: 18px;}
+    .offerctn p{font-size: 12px;}
+    .offer_bg img{    height: auto;}
+    .why-book h4 { font-size: 15px; }
+    .why-book p {font-size: 13px;}
+    .elementor-widget-container {padding: 0px ; display: flex;  flex-direction: column; align-items: center;  margin-bottom: 20px;}
+    .ha-steps-icon {display: flex; padding: 21px ; height: 100px ; width: 100px ; align-items: center ; }
+    .ha-steps-title {font-size: 14px;}
+    .experiencectn h3{    font-size: 35px;}
+    .highlight ul li{flex: 0 0 30.33%;}
+    .revstar img {width: 20px;}
+    .ilternarylist{height: 52px;}
+   
+}
+@media only screen and (min-width:900px) and (max-width:1023px){
+    header p{font-size: 11px;line-height: 15px;}
+    .menu ul.topmenu li a{    padding: 0.5rem 0.5rem;    font-size: 13px;}
+    .menu ul.childmenu a{font-size: 11px;}
+    .homeslide img{height: 64vh;}
+    .trustfactor ul li .svgbox svg{width: 20px;}
+    .offer_bg img{height: 200px; object-fit: cover;}
+    .offerctn h2{font-size: 20px;}
+    .offerctn a{padding: 8px 24px;font-size: 14px;}
+    .holidaypoint h3{font-size: 17px;}
+    .holidaypoint p{font-size: 13px;}
+    footer h3{font-size: 1.1rem;}
+    .disclamier p{font-size: .7rem;}
+    .details_form input{font-size: .8rem;}
+    .copyright p{font-size: 13px;}
+    .why-book h4 { font-size: 15px; }
+    .why-book p {font-size: 13px;}
+    .elementor-widget-container {padding: 0px ; display: flex;  flex-direction: column; align-items: center;  margin-bottom: 20px;}
+    .ha-steps-icon {display: flex; padding: 21px ; height: 100px ; width: 100px ; align-items: center ; }
+    .ha-steps-title {font-size: 14px;}
+    .place-content h4 {font-size: 13px; margin-bottom: 0;}
+    #pills-tab button{font-size: 12px;}
+    .experiencectn h3{font-size: 26px;    margin-bottom: 15px;}
+    .experiencectn p{font-size: 12px;    line-height: 21px;}
+    .experiencectn{padding: 0 30px 0 30px;}
+    .stepworld .stepone h2{font-size: 26px;line-height: 36px;}
+    .stepworld .stepone p{font-size: 12px;}
+    .stepworld ul li{width: 30%;}
+    .highlight ul li{flex: 0 0 31.33%;}
+    .revstar img { width: 20px;}
+    .galleryguest img{height: 200px;}
+}
+@media only screen and (min-width:768px) and (max-width:899px){
+    header ul li a {font-size: 18px;}
+    header h2 {font-size: 19px;}
+    header p {font-size: 11px;line-height: 14px;}
+    
+    .offer_bg{margin: 0;}
+    .offer_bg img{height: 230px; object-fit: cover;}
+    .holidaypoint h3{font-size: 17px;}
+    .holidaypoint p{font-size: 12px;}
+    footer h3{font-size: 1rem;}
+    .disclamier p{font-size: .7rem;}
+    .details_form input{font-size: .8rem;}
+    .copyright p{font-size: 13px;}
+    .why-book h4 { font-size: 15px; }
+    .why-book p {font-size: 13px;}
+    .elementor-widget-container {padding: 0px ; display: flex;  flex-direction: column; align-items: center;  margin-bottom: 20px;}
+    .ha-steps-icon {display: flex; padding: 21px ; height: 100px ; width: 100px ; align-items: center ; }
+    .ha-steps-title {font-size: 14px;}
+    .place-content h4 {font-size: 13px; margin-bottom: 0;}
+    #pills-tab button{font-size: 12px;}
+    .packageenquiry{max-width: 200px;}
+    .menu ul.topmenu li a{font-size: 14px;    padding: 0.6rem 0.4rem;}
+    .menu ul.childmenu a{font-size: 12px;}
+    .experiencectn h3{font-size: 26px;    margin-bottom: 15px;}
+    .experiencectn p{font-size: 12px;    line-height: 21px;}
+    .experiencectn{padding: 0 30px 0 30px;}
+    .stepworld .stepone h2{font-size: 26px;line-height: 36px;}
+    .stepworld .stepone p{font-size: 12px;}
+    .stepworld ul li{width: 30%;}
+    .highlight ul li{flex: 0 0 31.33%;}
+    .revstar img { width: 20px;}
+    .offerctn h2{font-size: 23px;}
+    .stepworld{padding: 50px 0;}
+    .stepworld ul li img{height: 50px;}
+    .stepworld ul li p{font-size: 11px;}
+    .popupmenu ul li a{font-size: 12px;}
+    .villadetails .t3{font-size: 18px;}
+    .amenitiespopup .boxlist .amenbox h5{font-size: 15px;}
+    .featured-item{padding: 16px;}
+    .featured-item h4{font-size: 12px;}
+    .featured-item p{font-size: 13px;}
+    .galleryguest img{height: 180px;}
+}
+@media only screen and (max-width:767px){
+    a.logo h2 {
+    font-size: 20px;
+    font-weight: 800;
+    color: #17415e;
+}
+    .sliderform{width:100%}
+    .banner-slider{min-height:400px}
+    .banner-slider img{min-height:400px; object-fit:cover}
+    header h2 {font-size: 16px;}
+    header p {font-size: 11px;line-height: 14px;}
+    header ul li a {font-size: 15px;}
+    header ul li a img{width: 15px;}
+
+    .homeslide .swiper-button-prev, .homeslide .swiper-button-next{display: none;}
+    .slidecontent{bottom: 40px;}
+    .slidecontent h2{font-size: 32px;}
+    .featured-item{margin: 10px 0px;}
+    .popular h2{font-size: 17px;}
+    .galleryguest img{height: 150px;}
+    .trustfactor{padding: 30px 15px;margin-bottom: 20px;}
+    .trustfactor ul li .svgbox{width: 34px;height: 34px; line-height: 34px;}
+    .trustfactor ul li .svgbox svg {width: 18px;}
+    .trustfactor ul li .trustbtn p{font-size: 13px;}
+    .offer_bg{margin: 0;}
+    .offerctn{width: 70%;}
+    .offer_bg img{height: 210px;  object-fit: cover;}
+    .offerctn h2{font-size: 19px;}
+    .offerctn a{width: 142px;    padding: 10px 24px;font-size: 12px;}
+    .holidaypoint h3{font-size: 13px;}
+    .holidaypoint p{font-size: 11px;}
+    footer h3,footer h5,footer .footerfirst ul li a{font-size: .8rem;}
+    .disclamier p{font-size: .7rem;}
+    .details_form input{font-size: .8rem;}
+    .copyright p{font-size: 13px;}
+    .why-book h4 { font-size: 15px; }
+    .why-book p {font-size: 13px;}
+    .why-book {margin: 0px 0px 10px;border: 1px dotted rgb(51 51 51 / 41%);height: auto; padding: 10px;}
+    #book-online .row {height: 370px; overflow-y: scroll; }
+    .elementor-widget-container {padding: 0px ; display: flex;  flex-direction: column; align-items: center;  margin-bottom: 20px;}
+    .ha-steps-icon {display: flex; padding: 21px ; height: 100px ; width: 100px ; align-items: center ; }
+    .ha-steps-title {font-size: 14px;}
+    .place-content h4 {font-size: 13px; margin-bottom: 0;}
+    #pills-tab button{font-size: 12px;width: 108px !important;}
+    .ha-steps-icon .ha-steps-label {top: -12px;padding: 4px 10px; }
+    .how-it-work .row {height: 380px;overflow-y: scroll;padding-top: 20px;}
+    .place #pills-tab {display: flex; flex-wrap: nowrap; overflow-x: scroll; margin-left: 10px; overflow-y: hidden;}
+    .place #pills-tab li{flex: 0 0 25%;}
+    .packageenquiry{max-width: 100%;position: static;margin-top: 0;background: #8c8c8c; padding: 15px;}
+    .packageenquiry h3, .packageenquiry p {color: #fff;}
+    .scrollfix{padding-bottom: 29%;}
+    .homeicon img {width: 14px;}
+    .homeicon {padding: 2.5px 7px; margin: 5px 5px 5px 0;}
+    .menu .container{padding: 0;}
+    .homeicon img {width: 14px;}
+    .homeicon {padding: 2.5px 7px; margin: 5px 5px 5px 0; display: none;}
+    .menu ul.topmenu {overflow-x: scroll; white-space: nowrap; padding: 5px 0px;  display: block; width: calc(100% - 16px); margin-left: 5px;}
+    .menu ul.topmenu li a{font-size: 14px;}
+    .menu ul.childmenu a{font-size: 12px;}
+    .menu ul.topmenu li a {font-size: .8rem;border: 2px solid #e3c16b;background: #e5e5e5; padding: 4px 4px;}
+    .menu ul.childmenu{text-align: left;width: 100%; white-space: nowrap; padding: 5px 5px; overflow-x: scroll;}
+    .menu ul.childmenu a {font-size: .7rem; padding: 0.2rem 0.3rem; display: inline-block; border: 1px solid #e3c16b;  background: #e5e5e5; border-radius: 60px;margin-right: 10px; font-weight: 500;}
+    .experiencectn h3{font-size: 26px;    margin-bottom: 15px;}
+    .experiencectn p{font-size: 12px;    line-height: 21px;}
+    .experiencectn{padding: 15px;}
+    .stepworld .stepone h2{font-size: 26px;line-height: 36px;}
+    .stepworld .stepone p{font-size: 12px;}
+    .stepworld ul li{width: 30%;}
+    .highlight ul li{/* flex: 0 0 31.33%; */}
+    .revstar img { width: 20px;}
+    .offerctn h2{font-size: 23px;}
+    .stepworld{padding: 50px 0;}
+    .stepworld ul li img{height: 50px;}
+    .stepworld ul li p{font-size: 11px;}
+    .experiencebox{display: block;    margin-bottom: 20px;}
+    .experienceimage{max-width: 100%;}
+    .experiencectn{max-width: 100%; border-radius: 0;}
+    .experienceimage img,.experiencebox.bdrchnage .experienceimage img{border-radius: 0;}
+    .getoffer,.tourpackage{padding-bottom: 15px;}
+    .brands, .villaexperience,.progresscounter{padding: 10px 0;}
+    .highlight ul li p{font-size: 12px;}
+    .mobileshow{display: block;}
+    .desktopshow{display: none;}
+    .tourtitle h2{font-size: 20px;}
+    .popupmenu ul li a{font-size: 12px;}
+    .villadetails .t3{font-size: 16px;}
+    .entire ul li h6{font-size: 13px;}
+    .entire ul li p{font-size: 10px;}
+    .amenitiespopup .boxlist .amenbox h5{font-size: 15px;}
+    .whyus .modeltitle{font-size: 22px;}
+    .aboutvilla li {font-size: 12px;}
+    .fooddining .fdining h5 {font-size: 14px;}
+    .villalocation {padding-top: 20px;}
+    .villalocation .accordion-header button{font-size: 15px;padding: 10px;}
+    .villalocation .locvilinner p{padding-bottom: 6px;font-size: 13px;margin-bottom: 5px;}
+    .pckframe{padding-bottom: 31%;}
+    .sliderhome {width: 100%;height: 88vh; overflow: hidden;}
+    .homeslide img{height: 59vh;}
+}    
+@media only screen and (min-width: 600px) {
+    .modal-content.slideupcontent{height: 80vh;}
+    .modal-content.slideupcontent{width: 70%;}
+    }
+    @media only screen and (max-width: 600px) {
+        .modal-content.slideupcontent{width: 100%;}
+    .modal-content.slideupcontent{ height: 75vh !important;}
+    .close-btn {position: relative !important; top: -38px !important;left: 0px !important;margin: -29px auto !important;} 
+    }
+
+@media only screen and (max-width:575px){
+    header,.floatingwhatsapp,.floatingcall{display: none;}
+    .mobileheader{display: block;padding: 12px;background: #fff;}
+    .mobileheader h1{font-size: 15px;  margin-top: 10px;text-shadow: 1px 1px 2px rgb(244 116 53);font-family: "Cinzel", serif;}
+    .mobileheader p{margin-bottom: 0;text-align: center;font-size: 11px;margin-top: 11px;}
+    .mobileheader ul{list-style: none;padding-left: 0;text-align: right; margin-bottom: 7px;}
+    .mobileheader ul li a{color: #000;padding-bottom: 1px;display: block;font-size: 15px;font-family: arial;}
+    .mobileheader .mobrgt{padding-right: 5px;}
+    .mobileheader .moblft{padding-left: 5px;}
+    .mobileheader ul img{width: 13px;}
+    .mobileheader img{width: 100%;}
+
+    .menu ul.childmenu a{margin-right: 1px; text-transform: capitalize;}
+    .menu ul.topmenu{width: calc(100% - 13px);margin-left: 5px;padding-right: 19px;}
+    .menu ul.topmenu li a{padding: 8px 4px;}
+    .menu ul.topmenu li a{border-color: transparent;}
+    .menu ul.topmenu li.active a{border-color: green;}
+    .homeicon{display: none;}
+    .menu-arrow{display: block !important; position: absolute;right: 0px;	top: 0;	background: #eaeaead9;width: 26px;height: 47px;line-height: 100%;box-sizing: border-box;	cursor: pointer;	z-index: 99;}
+	.menu-arrow img{width: 60px;height: 47px;}
+
+    .slidecontent{min-width: 400px;margin-left: -203px;}
+    .slidecontent h3{font-size: 18px;}
+    .slidecontent .tprice .inprice{font-size: 18px;}
+    .slidecontent h2{font-size: 30px;}
+    .slidecontent a{width: 100%;    border-radius: 10px;}
+    .trustfactor{padding: 20px 15px;}
+    .trustfactor ul{flex-wrap: wrap;}
+    .trustfactor ul li{flex-basis: 50%;margin-bottom: 1rem;}
+    .holidaypoint h3{font-size: 16px;    margin-top: 10px;}
+    .holidaypoint.bdfrgt ul{border-left-width: 0;}
+    .copyright p{text-align: center;    padding: 4px 0;}
+    .modal.fade.poupdesign .modal-dialog{transform: none; position: fixed; bottom: -100%; margin: 0;width: 100%; transition: bottom .5s ease-out;}
+    .modal.show.poupdesign .modal-dialog{bottom: 0; transition: bottom .5s ease-out;}
+    .poupdesign .modal-content{    border-radius: 0;}
+    .tour .tourimage img{height: auto;}
+    .mobile-cta{position: fixed;bottom: 0;left: 0;width: 100%;display: flex;background: #fff;box-shadow: 0 -1px 15px rgb(0 0 0 / 7%);z-index: 99;background: #18415e;/* padding: 8px 0; *//* padding-bottom: 3px; */}
+    .mobile-cta a:nth-child(1){background: red;}
+    .mobile-cta a:nth-child(2){/* background: #906be6; */}
+    .mobile-cta a:nth-child(3){background: #7abf00;}
+    .mobile-cta .btn {text-align: center;font-size: 12px;letter-spacing: 0.5px;font-weight: 300;max-width: 33.33%;flex: 0 0 33.33%;padding: 7px 0;min-height: auto;position: relative;color: #fff;border-radius: 0;}
+    .mobile-cta p{position: absolute;margin-bottom: 0;width: 100%; top: -12px;height: 150%; opacity: 0;}
+    .mobile-cta  .btn .icon_bg {/* height: 37px; */width: 37px;margin: auto;display: flex;align-items: center;justify-content: center;}
+    .mobile-cta .icon { width: 18px;height: 18px;  object-fit: contain;  display: block;margin: auto;}
+    .place-content h4 { font-size: 11px;  margin-bottom: 0; }
+    #pills-Cities .row{height: 351px;  overflow-y: scroll;}
+    .menu ul.childmenu a{margin-right: 1px;}
+    .scrollfix{height: 88vh;}
+    .whyus .modeltitle{font-size: 17px;}
+    .box_inner ul li{font-size: 12px;}
+    .place-content{font-size: 11px;}
+    footer{padding-bottom: 70px;}
+    .homeslide img{height: 90vh;}
+    .tpcakage img{height: 250px;}
+    .tpcakage{margin-top: 0;}
+    .disclamier p {font-size: .6rem;}
+    .copyright p {font-size: 12px;}
+    .header_inner .lettalk a{padding: 11px 10px;}
+    .tamenities ul li p{font-size: 10px;/* height: 40px; */}
+    .offerctn h2{font-size: 19px;}
+    .progresscounter h2 {margin-bottom: 1rem;font-size: 20px;}
+    .progresscounter h4{font-size: 15px;}
+    .progresscounter p {font-size: 11px;}
+    .highlight ul li{/* flex: 0 0 59.33%; */width: 100%;}
+    .highlight,.reviewlist { padding: 15px 0;}
+    .reviewlist h2{font-size: 20px;}
+    .stepworld ul li img {height: 50px;width: 50px;}
+    .entire ul li img{width: 22px;height: 22px;}
+    .highlightbox .hightlist{flex: 0 0 131px;}
+    .villalocation .accordion-header button {font-size: 13px;}
+    .amenitiespopup .amentbox ul{display: block;}
+    .amenitiespopup .boxlist .amenbox ul li { font-size: 16px;}
+    .amenitiespopup .amentbox ul li{font-size: 16px;}
+    .pckframe {padding-bottom: 37%;}
+    .homeslide img {height: 94vh;}
+    .amenitiespopup .boxlist{display: block;}
+    .amenitiespopup .boxlist .amenbox {border-top: 1px solid #e2e2e2; padding-top: 10px;}
+    .amenitiespopup .boxlist .amenbox h5{padding-bottom: 0;}
+    .bestchoose{padding: 20px 0px;}
+    .bestchoose h2{margin-bottom: 20px;font-size: 17px}
+    .popularbox h4{margin-bottom: 20px;}
+    .guestgallery h2{    margin-bottom: 20px;    font-size: 20px;}
+    
+}
+@media only screen and (max-width:467px){
+    .slidecontent{min-width: 100%; padding: 0px 15px; margin-left: 0; left: 0; text-align: left;align-items: flex-start;}
+    .slidecontent a{text-align: center;}
+    .slidecontent .tprice{font-size: 13px;}
+    .slidecontent .tprice .inprice {font-size: 16px;}
+    .slidecontent h3 {font-size: 16px;line-height: 0px;     margin-bottom: 1rem;}
+    .slidecontent h2{font-size: 22px;margin-bottom: 0; line-height: 30px;}
+    .slidecontent .ctndraw{display: none;}
+    .offerctn h2{font-size: 15px;}
+    .offerctn{padding: 10px 10px;   }
+    .offerctn p{font-size: 12px;}
+    .offerctn a{width: 112px; padding: 10px 4px;font-size: 11px; text-align: center;}
+    .tourpackage {padding: 0px 0 20px;}
+    .getoffer {padding-bottom: 20px;}
+    #book-online{padding-bottom: 10px;}
+    .tourpackage .tourtitle h3{font-size: 16px;}
+    .tpcakage{padding: 10px;}
+    .commonbox h2{font-size: 1rem;}
+    .offer_bg img {height: 180px; object-fit: cover; }
+    .tourbtn li a{font-size: 13px;}
+    .mainform .input-group-text{width: 20%;}
+    .homeslide img{height: 81vh;}
+    .header_inner  .logo img{width: 160px;}
+    .header_inner .lettalk a{font-size: 13px;}
+    .copyright p {font-size: 10px;}
+    .experiencectn h3 {font-size: 23px;margin-bottom: 10px;}
+    .progresscounter svg,.progresscounter .piea,.progresscounter .pieb,.progresscounter .piec,.progresscounter .pied{width: 150px !important; height: 150px !important;}
+    .progresscounter h4 {font-size: 13px;}
+    .progresscounter .percent{font-size: 1.5rem !important;}
+    .stepworld .stepone h2 {font-size: 20px;line-height: 32px;}
+    .stepworld .stepone p {font-size: 11px;}
+    .progresscounter p {font-size: 10px;}
+    .stepworld ul li {width: 46%;}
+    .highlight ul{display: block;height: 350px;overflow-y: scroll;}
+    .highlight ul li{padding-bottom: 13px;}
+    .popupmenu ul li a{padding: 7px 10px 7px;}
+    .villadetails .t3 {font-size: 15px;}
+    .entire ul{padding: 10px;display: block;}
+    .entire ul li{padding-bottom: 10px;}
+    .aboutvilla p{font-size: 11px;}
+    .aboutvilla li {font-size: 11px; }
+    .highlightbox .hightlist { flex: 0 0 94px; }
+    .highlightbox .hightlist p{font-size: 9px;}
+    .amenitiespopup .amentbox ul li img{width: 30px; height: 30px; padding: 6px;}
+    .amenitiespopup .boxlist .amenbox ul li img {width: 13px;}
+    .pckframe{height: 89vh;padding-bottom: 31%;}
+    .homeslide img { height: 57vh; }
+    .sliderhome {height: 85vh;}
+    .slidecontent {bottom: 40px;}
+
+}
+@media only screen and (max-width: 575px) {
+    .trusrcard {
+        padding: 10px;
+        bottom: 0%;
+        border-radius: 0;
+        width: 100%;
+        max-width: 100%;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .desktopform {
+        display: none;
+    }
+}
+@media only screen and (max-width: 575px) {
+    .slider_ctn h2 {
+        font-size: 1.3rem;
+    }
+}
+@media only screen and (max-width: 575px) {
+    .slider_ctn p {
+        font-size: 11px;
+    }
+}
+@media only screen and (max-width: 575px) {
+    .trusrcard ul li img {
+        width: 30px;
+    }
+}
+@media only screen and (max-width: 575px) {
+    .trusrcard h5 {
+        font-size: .5rem;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .slider_ctn h6{font-size:15px;
+                margin-bottom: 30px;
+    }
+    .trusrcard ul li {
+        width: 18%;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .mainbg{min-height: 350px;}
+    .tpcakage .dayscount li{
+        font-size: 12px;
+    }
+    .sc-img-box img{
+        margin-top: 30px;
+        height: 200px;
+    }
+.sc-heading.style-02 h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+    .mobshow {
+        display: block !important;
+    }
+}
